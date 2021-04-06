@@ -28,3 +28,4 @@ The app is dependent on :
 ExpressJS
 NodeJS
 Pug
+Path
